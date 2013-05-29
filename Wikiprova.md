@@ -19,10 +19,8 @@ iniziare ad avventurarsi nell'editing più avanzato.
 
 Ogni voce presenta in alto il tasto “modifica”.
 
-<center>
-  <img src="http://casadigitale.files.wordpress.com/2013/05/immagine2.jpg"
-       alt="modifica" />
-</center>
+<img src="http://casadigitale.files.wordpress.com/2013/05/immagine2.jpg"
+     alt="modifica" />
 
 Da qui si accede al sorgente della pagina. Tutto quello che scriverete o
 modificherete qua, una volta salvati i cambiamenti, sarà immediatamente
@@ -47,10 +45,8 @@ una voce, prima di salvare, è buona abitudine aggiungere nel campo
 “Oggetto” in cosa consiste la vostra modifica. Così contribuirete
 anche a rendere più fluidi eventuali controlli sulla pagina.
 
-<center>
-  <img src="http://casadigitale.files.wordpress.com/2013/05/immagine.jpg"
-       alt="oggetto" />
-</center>
+<img src="http://casadigitale.files.wordpress.com/2013/05/immagine.jpg"
+     alt="oggetto" />
 
 
 Vi invito anche a notare il tasto “Questa è una modifica minore”
