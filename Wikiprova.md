@@ -56,12 +56,12 @@ cercano di mantenere un buon livello di accuratezza dell'enciclopedia, e non cit
 senza la formattazione adeguata, il più delle volte vuol dire veder cancellati i propri contributi. Quindi occhio!
 
 
-Vi lascio come promesso qualche link utile, nel caso voleste approfondire l'editing di Wikipedia:
-    Guida per principianti: http://it.wikipedia.org/wiki/Aiuto:Guida_essenziale
-    Creare una nuova voce ex novo: http://it.wikipedia.org/wiki/Aiuto:Tour_guidato/Tutorial_4
-    Tradurre una voce da un'altra wiki: http://it.wikipedia.org/wiki/Aiuto:Come_tradurre_una_voce
-    Inserire le citazioni (mode expert: on): http://it.wikipedia.org/wiki/Aiuto:Note
-    Approfondimenti sull'uso delle fonti: http://it.wikipedia.org/wiki/Aiuto:Uso_delle_fonti
-    Usare le immagini: http://it.wikipedia.org/wiki/Aiuto:Aiuto
-    Copyright immagini: http://it.wikipedia.org/wiki/Wikipedia:Copyright_immagini
-    Mi hanno cancellato una voce: http://it.wikipedia.org/wiki/Aiuto:Voci_cancellate
+Vi lascio come promesso qualche link utile, nel caso voleste approfondire l'editing di Wikipedia:       
+Guida per principianti: http://it.wikipedia.org/wiki/Aiuto:Guida_essenziale             
+Creare una nuova voce ex novo: http://it.wikipedia.org/wiki/Aiuto:Tour_guidato/Tutorial_4           
+Tradurre una voce da un'altra wiki: http://it.wikipedia.org/wiki/Aiuto:Come_tradurre_una_voce       
+Inserire le citazioni (mode expert: on): http://it.wikipedia.org/wiki/Aiuto:Note        
+Approfondimenti sull'uso delle fonti: http://it.wikipedia.org/wiki/Aiuto:Uso_delle_fonti        
+Usare le immagini: http://it.wikipedia.org/wiki/Aiuto:Aiuto     
+Copyright immagini: http://it.wikipedia.org/wiki/Wikipedia:Copyright_immagini       
+Mi hanno cancellato una voce: http://it.wikipedia.org/wiki/Aiuto:Voci_cancellate        
