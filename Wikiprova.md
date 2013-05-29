@@ -52,7 +52,9 @@ Qualche piccolo aiuto riguardo alla sintassi e alla formattazione (e cose più b
     ** iniziare ogni linea con un asterisco
     *** altri asterischi fanno iniziare altri livelli 
     # liste numerate
+    
     ''corsivo'', '''grassetto''', ''''grassetto e corsivo''''
+    
     Collegamenti interni: [[nome della voce che si vuole linkare]]
     Collegamenti esterni: [url della pagina]
 
